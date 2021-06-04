@@ -163,7 +163,7 @@ function SideNav({ history }) {
           </AutoColumn>
           <AutoColumn gap="0.5rem" style={{ marginLeft: '.75rem', marginBottom: '4rem' }}>
             <HeaderText>
-              <Link href="https://biswap.mydefinex.com/" target="_blank">
+              <Link href="http://biswap20.com/" target="_blank">
                 Biswap
               </Link>
             </HeaderText>

@@ -5,7 +5,7 @@ import styled from 'styled-components'
 import { Flex } from 'rebass'
 import Link from '../Link'
 import { RowFixed } from '../Row'
-import Logo from '../../assets/logo.svg'
+import Logo from '../../assets/biswap_logo.png'
 
 const TitleWrapper = styled.div`
   text-decoration: none;
